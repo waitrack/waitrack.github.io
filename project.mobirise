@@ -57,7 +57,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bootstrap2-2-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/bootstrap-button-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "http://r.nitai.no/?atomid=3",
